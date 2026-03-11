@@ -1,0 +1,41 @@
+/* (*)
+() selector normal
+(#) selector :indeterminate
+(.) selector clase */
+
+
+*{
+    margin: 0px;
+    padding: 0px
+}
+
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 1500px;
+    margin: 0px auto;
+    border: 1px;
+}
+
+header{
+    background-color: lightgray;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+ nav{
+    background-color: gray;
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+
+ }
+
+ 
